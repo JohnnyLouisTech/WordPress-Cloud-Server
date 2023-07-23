@@ -8,7 +8,20 @@ $students = $wpdb->get_results("SELECT * FROM students;");
 ![EC2](https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/636de636-46ef-45ad-9894-aab0c24f2367)
 
 
+
+
+
+
+
+
+
 <img width="429" alt="A WS" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/1f84c8de-7e95-4a57-ac7f-827116715bd7">
+
+
+
+
+
+
 
 
 
@@ -16,11 +29,21 @@ $students = $wpdb->get_results("SELECT * FROM students;");
 
 
 
+
+
+
+
 <img width="441" alt="aws3" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/9ff05fe0-a113-44e2-83cf-8a4603494753">
 
 
 
+
+
+
 <img width="473" alt="aws4" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/6ab62d78-6282-4610-9847-5e75935cef96">
+
+
+
 
 
 
