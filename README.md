@@ -11,13 +11,17 @@ $students = $wpdb->get_results("SELECT * FROM students;");
 <img width="429" alt="A WS" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/1f84c8de-7e95-4a57-ac7f-827116715bd7">
 
 
+
 <img width="435" alt="asw2" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/c2923c33-15be-446c-8ce7-20c181013dc9">
+
 
 
 <img width="441" alt="aws3" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/9ff05fe0-a113-44e2-83cf-8a4603494753">
 
 
+
 <img width="473" alt="aws4" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/6ab62d78-6282-4610-9847-5e75935cef96">
+
 
 
 <img width="480" alt="aws5" src="https://github.com/JohnnyLouisTech/WordPress-Cloud-Server/assets/29494723/30f1e165-ab67-4777-977f-017fd865d9f6">
